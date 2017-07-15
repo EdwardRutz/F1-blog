@@ -1,4 +1,5 @@
 PERSONAL BLOG PAGE
+[X] Completed.
 
 Requirements
 
